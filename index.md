@@ -4,3 +4,5 @@
 greeting = "Hello World"
 print(greeting)
 ```
+- [x] Study first 5 modules of github foundation
+- [ ] Make the certification exam of Github
